@@ -1,0 +1,23 @@
+{
+  "name": "end-to-end-e2e-automation-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github-dzikri:dzikrinasa/End-to-End-E2E-Automation-Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "faker": "^6.6.6"
+  }
+}
