@@ -10,7 +10,7 @@
 #### 3. Navigate to Project Folder
   > `cd End-to-End-E2E-Automation-Testing`
 
-#### 5. Install Dependencies
+#### 4. Install Dependencies
   > `npm install`
 
 ## Running the tests
