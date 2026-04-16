@@ -6,7 +6,7 @@ const user = process.env.USER_STANDARD;
 const userLocked = process.env.USER_LOCKED;
 const password = process.env.USER_PASSWORD;
 
-test(`Positive Case - Verify User be able to Purchase Items`, async ({ page }) => {
+test(`Positive Case - Verify User be able to Login Successfully`, async ({ page }) => {
   const loginPage = new LoginPage(page);
 
   await test.step('1. Login Successfully', async () => {
